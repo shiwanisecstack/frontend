@@ -16,6 +16,8 @@ function About() {
           leading-8">
             Hello, I am <strong>Shiwani Chapagain</strong>, a passionate Full Stack Developer from Nepal. I enjoy building responsive anduser-friendly web applications.
           </p>
+          <p> Not only I look for new vision on technology  buut also I am a sharp learner and also help other to go forward.
+            </p>
 
           <p className="text-lg text-gray-300 max-w-lg text-center mx-auto mt-4 mb-10   leading-8">
             I love learning new technologies, solving problems, and creating  modern websites that provide great user experiences.
